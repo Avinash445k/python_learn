@@ -1,0 +1,4 @@
+Complete Chapter 1 
+
+Topics Modules , comments , REPL , pip 
+how to create python file extension (.py)
