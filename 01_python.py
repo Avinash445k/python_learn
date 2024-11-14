@@ -1,3 +1,3 @@
 print ("hello world")
 
-print ("python learn for dailt base")
+print ("python learn for daily base")
